@@ -7,7 +7,7 @@ metadata:
 spec: 
   project: default
   source:
-    repoURL: https://github.com/ravdy/guestbook.git
+    repoURL: https://github.com/karthikramana25-pixel/guestbook.git
     targetRevision: HEAD
     path: guestbook
   destination:
